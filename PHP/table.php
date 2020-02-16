@@ -24,6 +24,7 @@ $league = strtoupper($rankingsXml->matchSeries->name);
                 </tr>
             </thead>
             <tbody>
+			<!-- SAMS-Server-API by Per Natzschka -->
             <?php
                 foreach ($rankingsXml as $element){
                     if (isset($element->place)) {

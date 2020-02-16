@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-        <rankings>
+<rankings>
                 <matchSeries>
     <id>7060877</id>
     <uuid>2782121e-8829-4873-995d-5be050ca1110</uuid>
@@ -8,9 +7,9 @@
     <name>Sachsenliga Frauen</name>
     <shortName>SL F</shortName>
     <type>League</type>
-        <updated>2020-02-09 12:16:59.821</updated>
+        <updated>2020-02-09 15:16:15.654</updated>
         <structureUpdated>2020-02-09 00:15:13.28</structureUpdated>
-        <resultsUpdated>2020-02-09 12:16:59.821</resultsUpdated>
+        <resultsUpdated>2020-02-09 15:16:15.654</resultsUpdated>
         <season>
             <id>7058393</id>
             <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
@@ -69,7 +68,7 @@
                             <clubCode>SVLE</clubCode>
                             <club>
                                 <name>SV Lok Engelsdorf e. V.</name>
-                                <shortName></shortName>
+                                <shortName/>
                             </club>
                         </team>
 
@@ -126,7 +125,7 @@
                             <clubCode>HSV</clubCode>
                             <club>
                                 <name>Hainsberger SV e.V.</name>
-                                <shortName></shortName>
+                                <shortName/>
                             </club>
                         </team>
 
@@ -240,7 +239,7 @@
                             <clubCode>MoMi</clubCode>
                             <club>
                                 <name>SV Motor Mickten-Dresden e.V.</name>
-                                <shortName></shortName>
+                                <shortName/>
                             </club>
                         </team>
 
@@ -297,7 +296,7 @@
                             <clubCode>TSVL</clubCode>
                             <club>
                                 <name>TSV Leipzig 76 e.V.</name>
-                                <shortName></shortName>
+                                <shortName/>
                             </club>
                         </team>
 
@@ -354,7 +353,7 @@
                             <clubCode>DSSV</clubCode>
                             <club>
                                 <name>Dresdner SSV e.V.</name>
-                                <shortName></shortName>
+                                <shortName/>
                             </club>
                         </team>
 
@@ -411,7 +410,7 @@
                             <clubCode>TuS</clubCode>
                             <club>
                                 <name>TuS Dippoldiswalde 1992 e.V.</name>
-                                <shortName></shortName>
+                                <shortName/>
                             </club>
                         </team>
 
@@ -468,7 +467,7 @@
                             <clubCode>USVTU</clubCode>
                             <club>
                                 <name>USV TU Dresden e.V.</name>
-                                <shortName></shortName>
+                                <shortName/>
                             </club>
                         </team>
 
@@ -525,7 +524,7 @@
                             <clubCode>SSVFL</clubCode>
                             <club>
                                 <name>SSV Fortschritt Lichtenstein e.V.</name>
-                                <shortName></shortName>
+                                <shortName/>
                             </club>
                         </team>
 
