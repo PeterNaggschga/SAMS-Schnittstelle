@@ -7,11 +7,11 @@
 <body>
 <?php
 $rankingsXml = simplexml_load_file('rankings.xml');
-$league = strtoupper($rankingsXml->matchSeries->name);
+$league = $rankingsXml->matchSeries->name;
 ?>
 <div class="widget-wrap">
     <div class="textwidget">
-        <p>TABELLE <?php echo $league ?>:</p>
+        <p>Tabelle <?php echo $league ?>:</p>
         <table
             <thead>
                 <tr>
