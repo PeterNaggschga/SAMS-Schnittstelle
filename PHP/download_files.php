@@ -2,7 +2,7 @@
 $rankingFileName = 'rankings.xml';
 $sportsClubXml = simplexml_load_file('https://ssvb.sams-server.de/xml/sportsclub.xhtml?apiKey=05b4a417-dba5-4382-b40d-ac2b6d6cb516&sportsclubId=514');
 foreach ($sportsClubXml->teams->team as $team){
-    if (strcmp($team->id, '7060900') == 0){
+    if (strcmp($team->name, 'MH Metallprofil Volleys Dippoldiswalde') == 0){
         $leagueShort = $team->matchSeries->shortName;
         $lastUpdate = $team->matchSeries->resultsUpdated;
         break;
