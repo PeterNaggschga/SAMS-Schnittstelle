@@ -6,8 +6,13 @@
 </head>
 <body>
 <?php
-$rankingsXml = simplexml_load_file('rankings.xml');
-$league = $rankingsXml->matchSeries->name;
+$filename = 'rankings.xml';
+if (file_exists($filename)){
+    $rankingsXml = simplexml_load_file($filename);
+    $league = $rankingsXml->matchSeries->name;
+}else{
+    exit('Tabelle konnte nicht geladen werden!');
+}
 ?>
 <div class="widget-wrap">
     <div class="textwidget">
