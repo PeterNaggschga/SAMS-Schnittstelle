@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-$filename = 'rankings.xml';
+$filename = $_SERVER['DOCUMENT_ROOT'] . '/sams_api/ranking/rankings.xml';
 if (file_exists($filename)){
     $rankingsXml = simplexml_load_file($filename);
     $league = $rankingsXml->matchSeries->name;
