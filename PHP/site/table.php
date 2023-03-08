@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <title>Tabelle</title>
 </head>
-<!-- https://github.com/PeterNaggschga/SAMS-Schnittstelle -->
 <body>
+<!-- https://github.com/PeterNaggschga/SAMS-Schnittstelle -->
 <?php
 $filename = $_SERVER['DOCUMENT_ROOT'] . '/sams_api/ranking/rankings.xml';
 if (file_exists($filename)){
