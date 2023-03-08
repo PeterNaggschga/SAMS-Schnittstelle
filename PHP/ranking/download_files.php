@@ -1,6 +1,7 @@
 <?php
 $rankingFileName = 'rankings.xml';
-$sportsClubXml = simplexml_load_file('https://ssvb.sams-server.de/xml/sportsclub.xhtml?apiKey=05b4a417-dba5-4382-b40d-ac2b6d6cb516&sportsclubId=514');
+$apiKey = '05b4a417-dba5-4382-b40d-ac2b6d6cb516';
+$sportsClubXml = simplexml_load_file("https://ssvb.sams-server.de/xml/sportsclub.xhtml&sportsclubId=514?apiKey=$apiKey");
 if (!($sportsClubXml == false)) {
     foreach ($sportsClubXml->teams->team as $team) {
         if (strcmp($team->name, 'MH Metallprofil Volleys Dippoldiswalde') == 0) {
@@ -18,7 +19,7 @@ if (file_exists($rankingFileName)){
         exit('Keine Änderungen in der Tabelle!');
     }
 }
-$matchSeriesXml = simplexml_load_file('https://ssvb.sams-server.de/xml/matchSeries.xhtml?apiKey=05b4a417-dba5-4382-b40d-ac2b6d6cb516');
+$matchSeriesXml = simplexml_load_file("https://ssvb.sams-server.de/xml/matchSeries.xhtml?apiKey=$apiKey");
 if (!($matchSeriesXml == false)){
     foreach ($matchSeriesXml->matchSeries as $item){
         if (strcmp($item->shortName, $leagueShort ) == 0){
@@ -31,7 +32,7 @@ if (!($matchSeriesXml == false)){
 }
 
 if (isset($seasonId)){
-    $url = 'https://ssvb.sams-server.de/xml/rankings.xhtml?apiKey=05b4a417-dba5-4382-b40d-ac2b6d6cb516&matchSeriesId=' . $seasonId;
+    $url = "https://ssvb.sams-server.de/xml/rankings.xhtml?apiKey=$apiKey&matchSeriesId=$seasonId";
     $rankingsXml = simplexml_load_file($url);
     if (!($rankingsXml == false)){
         if (file_exists($rankingFileName)){

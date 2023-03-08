@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Tabelle</title>
 </head>
+<!-- https://github.com/PeterNaggschga/SAMS-Schnittstelle -->
 <body>
 <?php
 $filename = $_SERVER['DOCUMENT_ROOT'] . '/sams_api/ranking/rankings.xml';
@@ -17,7 +18,7 @@ if (file_exists($filename)){
 <div class="widget-wrap">
     <div class="textwidget">
         <p>Tabelle <?php echo $league ?>:</p>
-        <table
+        <table>
             <thead>
                 <tr>
                     <th></th>
@@ -29,7 +30,6 @@ if (file_exists($filename)){
                 </tr>
             </thead>
             <tbody>
-			<!-- SAMS-Server-API by Per Natzschka -->
             <?php
                 foreach ($rankingsXml as $element){
                     if (isset($element->place)) {
@@ -53,6 +53,7 @@ if (file_exists($filename)){
                 }
             ?>
             </tbody>
+        </table>
     </div>
 </div>
 </body>
