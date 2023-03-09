@@ -1,50 +1,45 @@
 <?php
 $rankingFileName = 'rankings.xml';
 $apiKey = '05b4a417-dba5-4382-b40d-ac2b6d6cb516';
-$sportsClubXml = simplexml_load_file("https://ssvb.sams-server.de/xml/sportsclub.xhtml&sportsclubId=514?apiKey=$apiKey");
-if (!($sportsClubXml == false)) {
-    foreach ($sportsClubXml->teams->team as $team) {
-        if (strcmp($team->name, 'MH Metallprofil Volleys Dippoldiswalde') == 0) {
-            $leagueShort = $team->matchSeries->shortName;
-            $lastUpdate = $team->matchSeries->resultsUpdated;
-            break;
-        }
-    }
-}else{
-    exit('Mannschaft konnte nicht gefunden werden!');
-}
+
 if (file_exists($rankingFileName)){
     $rankingsXml = simplexml_load_file($rankingFileName);
-    if (strcmp($lastUpdate, $rankingsXml->matchSeries->resultsUpdated) == 0){
-        exit('Keine Änderungen in der Tabelle!');
-    }
-}
-$matchSeriesXml = simplexml_load_file("https://ssvb.sams-server.de/xml/matchSeries.xhtml?apiKey=$apiKey");
-if (!($matchSeriesXml == false)){
-    foreach ($matchSeriesXml->matchSeries as $item){
-        if (strcmp($item->shortName, $leagueShort ) == 0){
-            $seasonId = $item->id;
-            break;
-        }
-    }
+    $updatedOld = $rankingsXml->matchSeries->resultsUpdated;
+    $seriesId = $rankingsXml->matchSeries->id;
 }else{
-    exit('Spielrundenübersicht konnte nicht geladen werden!');
+    $updatedOld = '1970-01-01 01:00:00.000';
+    $seriesId = '0';
 }
 
-if (isset($seasonId)){
-    $url = "https://ssvb.sams-server.de/xml/rankings.xhtml?apiKey=$apiKey&matchSeriesId=$seasonId";
-    $rankingsXml = simplexml_load_file($url);
-    if (!($rankingsXml == false)){
-        if (file_exists($rankingFileName)){
-            unlink($rankingFileName);
+if ($sportsClubXml = simplexml_load_file("https://ssvb.sams-server.de/xml/sportsclub.xhtml?apiKey=$apiKey&sportsclubId=514")) {   // wenn Club mit Id 514 gefunden wurde
+    foreach ($sportsClubXml->teams->team as $team) {
+       if (strcmp($team->name, 'MH Metallprofil Volleys Dippoldiswalde') == 0   // finde MH Volleys
+            and strcmp('League', $team->matchSeries->type) == 0                 // betrachte nur Liga-Tabellen
+            and strcmp($seriesId, $team->matchSeries->id) <= 0) {                      // finde höchste seriesId
+            $updatedNew = $team->matchSeries->resultsUpdated;
+            $seriesId = $team->matchSeries->id;
         }
-        $rankingFile = fopen($rankingFileName, "w");
-        fwrite($rankingFile, $rankingsXml->asXML());
-        fclose($rankingFile);
-        exit('Tabelle wurde gespeichert!');
-    }else{
-        exit('Tabelle konnte nicht geladen werden!');
+    }
+    if (!isset($updatedNew)) {
+        exit('Mannschaft konnte nicht gefunden werden!');
     }
 }else{
-    exit('Liga konnte nicht ermittelt werden!');
+    exit('Verein konnte nicht gefunden werden!');
+}
+
+if (strcmp($updatedOld, $updatedNew) == 0){ // wenn Ranking aktuell
+    exit('Keine Änderungen in der Tabelle!');
+}
+
+$url = "https://ssvb.sams-server.de/xml/rankings.xhtml?apiKey=$apiKey&matchSeriesId=$seriesId";
+if ($rankingsXml = simplexml_load_file($url)){
+    if (file_exists($rankingFileName)){
+        unlink($rankingFileName);
+    }
+    $rankingFile = fopen($rankingFileName, "w");
+    fwrite($rankingFile, $rankingsXml->asXML());
+    fclose($rankingFile);
+    exit('Tabelle wurde gespeichert!');
+}else{
+    exit('Tabelle konnte nicht geladen werden!');
 }
