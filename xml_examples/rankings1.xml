@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rankings>
+    <matchSeries>
+        <id>7060877</id>
+        <uuid>2782121e-8829-4873-995d-5be050ca1110</uuid>
+        <allSeasonId>2f8a1a3d-2971-9da5-b319-853bb74e9234</allSeasonId>
+        <name>Sachsenliga Frauen</name>
+        <shortName>SL F</shortName>
+        <type>League</type>
+        <updated>2020-02-09 15:16:15.654</updated>
+        <structureUpdated>2020-02-09 00:15:13.28</structureUpdated>
+        <resultsUpdated>2020-02-09 15:16:15.654</resultsUpdated>
+        <season>
+            <id>7058393</id>
+            <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
+            <name>2019/2020</name>
+        </season>
+        <hierarchy>
+            <id>7059056</id>
+            <uuid>bfd16489-5d2a-41fd-bd3f-815b8cd63541</uuid>
+            <name>Sachsenliga</name>
+            <shortName>SL</shortName>
+            <hierarchyLevel>4</hierarchyLevel>
+        </hierarchy>
+        <fullHierarchy>
+            <hierarchy>
+                <id>7059056</id>
+                <name>Sachsenliga</name>
+                <shortName>SL</shortName>
+                <hierarchyLevel>4</hierarchyLevel>
+            </hierarchy>
+            <hierarchy>
+                <id>7059055</id>
+                <name>Regionalliga Ost</name>
+                <shortName>RLO</shortName>
+                <hierarchyLevel>3</hierarchyLevel>
+            </hierarchy>
+            <hierarchy>
+                <id>7059054</id>
+                <name>Dritte Liga Ost</name>
+                <shortName>DLO</shortName>
+                <hierarchyLevel>2</hierarchyLevel>
+            </hierarchy>
+            <hierarchy>
+                <id>7059053</id>
+                <name>Bundesliga</name>
+                <shortName>VBL</shortName>
+                <hierarchyLevel>1</hierarchyLevel>
+            </hierarchy>
+            <hierarchy>
+                <id>7059052</id>
+                <name>Erwachsenenspielbetrieb</name>
+                <shortName>Erw</shortName>
+                <hierarchyLevel>0</hierarchyLevel>
+            </hierarchy>
+        </fullHierarchy>
+        <association>
+            <name>Sächsischer Sportverband Volleyball e.V.</name>
+            <shortName>SSVB</shortName>
+        </association>
+    </matchSeries>
+    <ranking>
+        <team>
+            <id>7064517</id>
+            <uuid>e49ef721-dcb3-494c-b6cb-6a686ec96c20</uuid>
+            <name>SV Lok Engelsdorf I</name>
+            <shortName>Engelsdorf</shortName>
+            <clubCode>SVLE</clubCode>
+            <club>
+                <name>SV Lok Engelsdorf e. V.</name>
+                <shortName/>
+            </club>
+        </team>
+
+        <place>1</place>
+        <matchesPlayed>12</matchesPlayed>
+        <wins>10</wins>
+        <losses>2</losses>
+        <points>29</points>
+
+        <setPoints>33:14</setPoints>
+        <setWinScore>33</setWinScore>
+        <setLoseScore>14</setLoseScore>
+        <setPointDifference>19</setPointDifference>
+        <setQuotient>2,357</setQuotient>
+
+        <ballPoints>1093:933</ballPoints>
+        <ballWinScore>1093</ballWinScore>
+        <ballLoseScore>933</ballLoseScore>
+        <ballPointDifference>160</ballPointDifference>
+        <ballQuotient>1,171</ballQuotient>
+        <resultTypes>
+            <matchResult>
+                <result>3:0</result>
+                <count>4</count>
+            </matchResult>
+            <matchResult>
+                <result>3:1</result>
+                <count>4</count>
+            </matchResult>
+            <matchResult>
+                <result>3:2</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>2:3</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>1:3</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>0:3</result>
+                <count>0</count>
+            </matchResult>
+        </resultTypes>
+    </ranking>
+    <ranking>
+        <team>
+            <id>7064510</id>
+            <uuid>a18a2055-a72d-4fd7-8a47-45a82b13960d</uuid>
+            <name>Hainsberger SV I</name>
+            <shortName>Hainsberg</shortName>
+            <clubCode>HSV</clubCode>
+            <club>
+                <name>Hainsberger SV e.V.</name>
+                <shortName/>
+            </club>
+        </team>
+
+        <place>2</place>
+        <matchesPlayed>12</matchesPlayed>
+        <wins>8</wins>
+        <losses>4</losses>
+        <points>25</points>
+
+        <setPoints>29:16</setPoints>
+        <setWinScore>29</setWinScore>
+        <setLoseScore>16</setLoseScore>
+        <setPointDifference>13</setPointDifference>
+        <setQuotient>1,812</setQuotient>
+
+        <ballPoints>1021:884</ballPoints>
+        <ballWinScore>1021</ballWinScore>
+        <ballLoseScore>884</ballLoseScore>
+        <ballPointDifference>137</ballPointDifference>
+        <ballQuotient>1,155</ballQuotient>
+        <resultTypes>
+            <matchResult>
+                <result>3:0</result>
+                <count>5</count>
+            </matchResult>
+            <matchResult>
+                <result>3:1</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>3:2</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>2:3</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>1:3</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>0:3</result>
+                <count>1</count>
+            </matchResult>
+        </resultTypes>
+    </ranking>
+    <ranking>
+        <team>
+            <id>7064513</id>
+            <uuid>01cbe82a-1565-435a-bcdb-3b03908c315f</uuid>
+            <name>SV 04 Plauen-Oberlosa</name>
+            <shortName>Pl.-Oberlosa</shortName>
+            <clubCode>SVPO</clubCode>
+            <club>
+                <name>SV 04 Plauen-Oberlosa e.V.</name>
+                <shortName>SV 04</shortName>
+            </club>
+        </team>
+
+        <place>3</place>
+        <matchesPlayed>12</matchesPlayed>
+        <wins>8</wins>
+        <losses>4</losses>
+        <points>24</points>
+
+        <setPoints>30:17</setPoints>
+        <setWinScore>30</setWinScore>
+        <setLoseScore>17</setLoseScore>
+        <setPointDifference>13</setPointDifference>
+        <setQuotient>1,765</setQuotient>
+
+        <ballPoints>1051:958</ballPoints>
+        <ballWinScore>1051</ballWinScore>
+        <ballLoseScore>958</ballLoseScore>
+        <ballPointDifference>93</ballPointDifference>
+        <ballQuotient>1,097</ballQuotient>
+        <resultTypes>
+            <matchResult>
+                <result>3:0</result>
+                <count>5</count>
+            </matchResult>
+            <matchResult>
+                <result>3:1</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>3:2</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>2:3</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>1:3</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>0:3</result>
+                <count>0</count>
+            </matchResult>
+        </resultTypes>
+    </ranking>
+    <ranking>
+        <team>
+            <id>7060912</id>
+            <uuid>d056ebfb-9df4-48e8-be94-96c489903291</uuid>
+            <name>SV Motor Mickten I</name>
+            <shortName>Mickten</shortName>
+            <clubCode>MoMi</clubCode>
+            <club>
+                <name>SV Motor Mickten-Dresden e.V.</name>
+                <shortName/>
+            </club>
+        </team>
+
+        <place>4</place>
+        <matchesPlayed>12</matchesPlayed>
+        <wins>8</wins>
+        <losses>4</losses>
+        <points>24</points>
+
+        <setPoints>28:18</setPoints>
+        <setWinScore>28</setWinScore>
+        <setLoseScore>18</setLoseScore>
+        <setPointDifference>10</setPointDifference>
+        <setQuotient>1,556</setQuotient>
+
+        <ballPoints>1046:946</ballPoints>
+        <ballWinScore>1046</ballWinScore>
+        <ballLoseScore>946</ballLoseScore>
+        <ballPointDifference>100</ballPointDifference>
+        <ballQuotient>1,106</ballQuotient>
+        <resultTypes>
+            <matchResult>
+                <result>3:0</result>
+                <count>3</count>
+            </matchResult>
+            <matchResult>
+                <result>3:1</result>
+                <count>4</count>
+            </matchResult>
+            <matchResult>
+                <result>3:2</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>2:3</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>1:3</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>0:3</result>
+                <count>1</count>
+            </matchResult>
+        </resultTypes>
+    </ranking>
+    <ranking>
+        <team>
+            <id>7060925</id>
+            <uuid>84be8f36-a2fa-42b4-8a2d-37b77e8c0f64</uuid>
+            <name>TSV Leipzig 76 I</name>
+            <shortName>TSV Leipzig I</shortName>
+            <clubCode>TSVL</clubCode>
+            <club>
+                <name>TSV Leipzig 76 e.V.</name>
+                <shortName/>
+            </club>
+        </team>
+
+        <place>5</place>
+        <matchesPlayed>12</matchesPlayed>
+        <wins>8</wins>
+        <losses>4</losses>
+        <points>23</points>
+
+        <setPoints>28:19</setPoints>
+        <setWinScore>28</setWinScore>
+        <setLoseScore>19</setLoseScore>
+        <setPointDifference>9</setPointDifference>
+        <setQuotient>1,474</setQuotient>
+
+        <ballPoints>1058:996</ballPoints>
+        <ballWinScore>1058</ballWinScore>
+        <ballLoseScore>996</ballLoseScore>
+        <ballPointDifference>62</ballPointDifference>
+        <ballQuotient>1,062</ballQuotient>
+        <resultTypes>
+            <matchResult>
+                <result>3:0</result>
+                <count>3</count>
+            </matchResult>
+            <matchResult>
+                <result>3:1</result>
+                <count>3</count>
+            </matchResult>
+            <matchResult>
+                <result>3:2</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>2:3</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>1:3</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>0:3</result>
+                <count>1</count>
+            </matchResult>
+        </resultTypes>
+    </ranking>
+    <ranking>
+        <team>
+            <id>7060918</id>
+            <uuid>5341a9cb-5109-4906-aa56-29eed596838d</uuid>
+            <name>Dresdner SSV II</name>
+            <shortName>Dresdner SSV</shortName>
+            <clubCode>DSSV</clubCode>
+            <club>
+                <name>Dresdner SSV e.V.</name>
+                <shortName/>
+            </club>
+        </team>
+
+        <place>6</place>
+        <matchesPlayed>12</matchesPlayed>
+        <wins>6</wins>
+        <losses>6</losses>
+        <points>19</points>
+
+        <setPoints>22:22</setPoints>
+        <setWinScore>22</setWinScore>
+        <setLoseScore>22</setLoseScore>
+        <setPointDifference>0</setPointDifference>
+        <setQuotient>1,000</setQuotient>
+
+        <ballPoints>971:947</ballPoints>
+        <ballWinScore>971</ballWinScore>
+        <ballLoseScore>947</ballLoseScore>
+        <ballPointDifference>24</ballPointDifference>
+        <ballQuotient>1,025</ballQuotient>
+        <resultTypes>
+            <matchResult>
+                <result>3:0</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>3:1</result>
+                <count>4</count>
+            </matchResult>
+            <matchResult>
+                <result>3:2</result>
+                <count>0</count>
+            </matchResult>
+            <matchResult>
+                <result>2:3</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>1:3</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>0:3</result>
+                <count>3</count>
+            </matchResult>
+        </resultTypes>
+    </ranking>
+    <ranking>
+        <team>
+            <id>7060900</id>
+            <uuid>cd626d60-6a38-4391-ba45-1f26ce8c7a46</uuid>
+            <name>MH Metallprofil Volleys Dippoldiswalde</name>
+            <shortName>Dippoldiswalde</shortName>
+            <clubCode>TuS</clubCode>
+            <club>
+                <name>TuS Dippoldiswalde 1992 e.V.</name>
+                <shortName/>
+            </club>
+        </team>
+
+        <place>7</place>
+        <matchesPlayed>11</matchesPlayed>
+        <wins>3</wins>
+        <losses>8</losses>
+        <points>10</points>
+
+        <setPoints>15:25</setPoints>
+        <setWinScore>15</setWinScore>
+        <setLoseScore>25</setLoseScore>
+        <setPointDifference>-10</setPointDifference>
+        <setQuotient>0,600</setQuotient>
+
+        <ballPoints>803:894</ballPoints>
+        <ballWinScore>803</ballWinScore>
+        <ballLoseScore>894</ballLoseScore>
+        <ballPointDifference>-91</ballPointDifference>
+        <ballQuotient>0,898</ballQuotient>
+        <resultTypes>
+            <matchResult>
+                <result>3:0</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>3:1</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>3:2</result>
+                <count>0</count>
+            </matchResult>
+            <matchResult>
+                <result>2:3</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>1:3</result>
+                <count>4</count>
+            </matchResult>
+            <matchResult>
+                <result>0:3</result>
+                <count>3</count>
+            </matchResult>
+        </resultTypes>
+    </ranking>
+    <ranking>
+        <team>
+            <id>7060932</id>
+            <uuid>09908cc6-6575-467a-84cf-e198a8dc18ae</uuid>
+            <name>USV TU Dresden I</name>
+            <shortName>TU Dresden</shortName>
+            <clubCode>USVTU</clubCode>
+            <club>
+                <name>USV TU Dresden e.V.</name>
+                <shortName/>
+            </club>
+        </team>
+
+        <place>8</place>
+        <matchesPlayed>12</matchesPlayed>
+        <wins>1</wins>
+        <losses>11</losses>
+        <points>3</points>
+
+        <setPoints>7:34</setPoints>
+        <setWinScore>7</setWinScore>
+        <setLoseScore>34</setLoseScore>
+        <setPointDifference>-27</setPointDifference>
+        <setQuotient>0,206</setQuotient>
+
+        <ballPoints>753:1006</ballPoints>
+        <ballWinScore>753</ballWinScore>
+        <ballLoseScore>1006</ballLoseScore>
+        <ballPointDifference>-253</ballPointDifference>
+        <ballQuotient>0,749</ballQuotient>
+        <resultTypes>
+            <matchResult>
+                <result>3:0</result>
+                <count>0</count>
+            </matchResult>
+            <matchResult>
+                <result>3:1</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>3:2</result>
+                <count>0</count>
+            </matchResult>
+            <matchResult>
+                <result>2:3</result>
+                <count>0</count>
+            </matchResult>
+            <matchResult>
+                <result>1:3</result>
+                <count>4</count>
+            </matchResult>
+            <matchResult>
+                <result>0:3</result>
+                <count>7</count>
+            </matchResult>
+        </resultTypes>
+    </ranking>
+    <ranking>
+        <team>
+            <id>7060922</id>
+            <uuid>4bb59936-05cf-4b38-84d3-a08987b0e9c8</uuid>
+            <name>SSV Fortschritt Lichtenstein II</name>
+            <shortName>Lichtenstein</shortName>
+            <clubCode>SSVFL</clubCode>
+            <club>
+                <name>SSV Fortschritt Lichtenstein e.V.</name>
+                <shortName/>
+            </club>
+        </team>
+
+        <place>9</place>
+        <matchesPlayed>11</matchesPlayed>
+        <wins>1</wins>
+        <losses>10</losses>
+        <points>2</points>
+
+        <setPoints>5:32</setPoints>
+        <setWinScore>5</setWinScore>
+        <setLoseScore>32</setLoseScore>
+        <setPointDifference>-27</setPointDifference>
+        <setQuotient>0,156</setQuotient>
+
+        <ballPoints>671:903</ballPoints>
+        <ballWinScore>671</ballWinScore>
+        <ballLoseScore>903</ballLoseScore>
+        <ballPointDifference>-232</ballPointDifference>
+        <ballQuotient>0,743</ballQuotient>
+        <resultTypes>
+            <matchResult>
+                <result>3:0</result>
+                <count>0</count>
+            </matchResult>
+            <matchResult>
+                <result>3:1</result>
+                <count>0</count>
+            </matchResult>
+            <matchResult>
+                <result>3:2</result>
+                <count>1</count>
+            </matchResult>
+            <matchResult>
+                <result>2:3</result>
+                <count>0</count>
+            </matchResult>
+            <matchResult>
+                <result>1:3</result>
+                <count>2</count>
+            </matchResult>
+            <matchResult>
+                <result>0:3</result>
+                <count>8</count>
+            </matchResult>
+        </resultTypes>
+    </ranking>
+</rankings>

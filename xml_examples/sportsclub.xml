@@ -1,797 +1,797 @@
 <?xml version="1.0"?>
 
-            <sportsclub>
-                <id>514</id>
-                <name>TuS Dippoldiswalde 1992 e.V.</name>
-                <logo>
-                    <url></url>
-                    <filename></filename>
-                    <createDate></createDate>
-                </logo>
-                <lsbNumber>500282</lsbNumber>
-                <internalSportsclubId>314</internalSportsclubId>
-                <association>
-                    <id>126087</id>
-                    <name>Landkreis Sächsische Schweiz/Osterzgebirge</name>
-                </association>
-                <matchOperationCompany>
-                    <id></id>
-                    <name></name>
-                    <address>
-        <postbox></postbox>
-    <street></street>
-    <extraField></extraField>
-    <postcode></postcode>
-    <city></city>
-    <region></region>
-    <country></country>
-                    </address>
-                    <homepage></homepage>
-                </matchOperationCompany>
-                <teams>
-                        <team>
-    <id>7060900</id>
-    <uuid>cd626d60-6a38-4391-ba45-1f26ce8c7a46</uuid>
-    <seasonTeamId>7060900</seasonTeamId>
-    <placeCipher>6</placeCipher>
-    <name>MH Metallprofil Volleys Dippoldiswalde</name>
-    <shortName>Dippoldiswalde</shortName>
-    <clubCode>TuS</clubCode>
-    <status>ACTIVE</status>
-    <www>http://www.tus-dippoldiswalde.de</www>
-    <logo>
-        <url>https://www.ssvb.org/uploads/4ed1a9fb-3195-40bf-ac23-3f0fa3cb64f9/logo_dipps.png</url>
-    </logo>
-    <club>
-        <name>TuS Dippoldiswalde 1992 e.V.</name>
-        <id>514</id>
-        <shortName></shortName>
-        <logo>
-            <url></url>
-        </logo>
-        <www>http://www.tus-dippoldiswalde.de</www>
-        <wwwDepartment></wwwDepartment>
-    </club>
-    <matchSeries>
-    <id>7060877</id>
-    <uuid>2782121e-8829-4873-995d-5be050ca1110</uuid>
-    <allSeasonId>2f8a1a3d-2971-9da5-b319-853bb74e9234</allSeasonId>
-    <name>Sachsenliga Frauen</name>
-    <shortName>SL F</shortName>
-    <type>League</type>
-        <updated>2020-02-09 12:16:59.821</updated>
-        <structureUpdated>2020-02-09 00:15:13.28</structureUpdated>
-        <resultsUpdated>2020-02-09 12:16:59.821</resultsUpdated>
-        <season>
-            <id>7058393</id>
-            <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
-            <name>2019/2020</name>
-        </season>
-        <hierarchy>
-            <id>7059056</id>
-            <uuid>bfd16489-5d2a-41fd-bd3f-815b8cd63541</uuid>
-            <name>Sachsenliga</name>
-            <shortName>SL</shortName>
-            <hierarchyLevel>4</hierarchyLevel>
-        </hierarchy>
-        <fullHierarchy>
-                <hierarchy>
-                    <id>7059056</id>
-                    <name>Sachsenliga</name>
-                    <shortName>SL</shortName>
-                    <hierarchyLevel>4</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059055</id>
-                    <name>Regionalliga Ost</name>
-                    <shortName>RLO</shortName>
-                    <hierarchyLevel>3</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059054</id>
-                    <name>Dritte Liga Ost</name>
-                    <shortName>DLO</shortName>
-                    <hierarchyLevel>2</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059053</id>
-                    <name>Bundesliga</name>
-                    <shortName>VBL</shortName>
-                    <hierarchyLevel>1</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059052</id>
-                    <name>Erwachsenenspielbetrieb</name>
-                    <shortName>Erw</shortName>
-                    <hierarchyLevel>0</hierarchyLevel>
-                </hierarchy>
-        </fullHierarchy>
-        <association>
-            <name>Sächsischer Sportverband Volleyball e.V.</name>
-            <shortName>SSVB</shortName>
-        </association>
-    </matchSeries>
-                        </team>
-                        <team>
-    <id>7095548</id>
-    <uuid>3e97d54e-727c-4e18-af36-313e77d65aa1</uuid>
-    <seasonTeamId>7095548</seasonTeamId>
-    <placeCipher>6</placeCipher>
-    <name>MH Metallprofil Volleys Dippoldiswalde</name>
-    <shortName>Dippoldiswalde</shortName>
-    <clubCode>TuS</clubCode>
-    <status>ACTIVE</status>
-    <www>http://www.tus-dippoldiswalde.de</www>
-    <logo>
-        <url>https://www.ssvb.org/uploads/67507ec3-1133-45ad-bd55-9dc2f64216c9/logo_dipps.png</url>
-    </logo>
-    <club>
-        <name>TuS Dippoldiswalde 1992 e.V.</name>
-        <id>514</id>
-        <shortName></shortName>
-        <logo>
-            <url></url>
-        </logo>
-        <www>http://www.tus-dippoldiswalde.de</www>
-        <wwwDepartment></wwwDepartment>
-    </club>
-    <matchSeries>
-    <id>7060866</id>
-    <uuid>3019e731-e39f-4b5f-b779-e0fb653d5e1d</uuid>
-    <allSeasonId>ad9e4ba0-d178-3e5a-09b6-e802e7859175</allSeasonId>
-    <name>Sparkassencup Frauen (Sachsenpokal)</name>
-    <shortName>SC F</shortName>
-    <type>Competition</type>
-        <updated>2020-02-07 16:51:22.546</updated>
-        <structureUpdated>2020-01-06 08:05:50.508</structureUpdated>
-        <resultsUpdated>2020-01-04 13:26:55.611</resultsUpdated>
-        <season>
-            <id>7058393</id>
-            <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
-            <name>2019/2020</name>
-        </season>
-        <hierarchy>
-            <id>7059056</id>
-            <uuid>bfd16489-5d2a-41fd-bd3f-815b8cd63541</uuid>
-            <name>Sachsenliga</name>
-            <shortName>SL</shortName>
-            <hierarchyLevel>4</hierarchyLevel>
-        </hierarchy>
-        <fullHierarchy>
-                <hierarchy>
-                    <id>7059056</id>
-                    <name>Sachsenliga</name>
-                    <shortName>SL</shortName>
-                    <hierarchyLevel>4</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059055</id>
-                    <name>Regionalliga Ost</name>
-                    <shortName>RLO</shortName>
-                    <hierarchyLevel>3</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059054</id>
-                    <name>Dritte Liga Ost</name>
-                    <shortName>DLO</shortName>
-                    <hierarchyLevel>2</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059053</id>
-                    <name>Bundesliga</name>
-                    <shortName>VBL</shortName>
-                    <hierarchyLevel>1</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059052</id>
-                    <name>Erwachsenenspielbetrieb</name>
-                    <shortName>Erw</shortName>
-                    <hierarchyLevel>0</hierarchyLevel>
-                </hierarchy>
-        </fullHierarchy>
-        <association>
-            <name>Sächsischer Sportverband Volleyball e.V.</name>
-            <shortName>SSVB</shortName>
-        </association>
-    </matchSeries>
-                        </team>
-                        <team>
-    <id>7059094</id>
-    <uuid>fab4e80b-c8c1-4b56-855f-20979ea2a926</uuid>
-    <seasonTeamId>7059094</seasonTeamId>
-    <placeCipher>7</placeCipher>
-    <name>TuS 1992 Dippoldiswalde II</name>
-    <shortName>TuS Dipps II</shortName>
-    <clubCode></clubCode>
-    <status>ACTIVE</status>
-    <www>http://www.tus-dippoldiswalde.de</www>
+<sportsclub>
+    <id>514</id>
+    <name>TuS Dippoldiswalde 1992 e.V.</name>
     <logo>
         <url></url>
+        <filename></filename>
+        <createDate></createDate>
     </logo>
-    <club>
-        <name>TuS Dippoldiswalde 1992 e.V.</name>
-        <id>514</id>
-        <shortName></shortName>
-        <logo>
-            <url></url>
-        </logo>
-        <www>http://www.tus-dippoldiswalde.de</www>
-        <wwwDepartment></wwwDepartment>
-    </club>
-    <matchSeries>
-    <id>7059063</id>
-    <uuid>d3dca919-78df-495b-a0f9-ff72be09dad6</uuid>
-    <allSeasonId>e43b06cb-110e-332d-de87-841e91735d6a</allSeasonId>
-    <name>KK sächs. Schweiz/Osterz. Frauen</name>
-    <shortName>KK Frauen</shortName>
-    <type>League</type>
-        <updated>2020-01-27 14:07:29.252</updated>
-        <structureUpdated>2020-01-24 16:00:02.385</structureUpdated>
-        <resultsUpdated>2020-01-27 14:07:29.252</resultsUpdated>
-        <season>
-            <id>7058393</id>
-            <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
-            <name>2019/2020</name>
-        </season>
-        <hierarchy>
-            <id>7059062</id>
-            <uuid>2023660c-f7f3-4a20-96f2-c51f157ce99a</uuid>
-            <name>Kreisklasse Sächsische Schweiz/Osterzgebirge</name>
-            <shortName>KK Sächs/Osterz</shortName>
-            <hierarchyLevel>10</hierarchyLevel>
-        </hierarchy>
-        <fullHierarchy>
+    <lsbNumber>500282</lsbNumber>
+    <internalSportsclubId>314</internalSportsclubId>
+    <association>
+        <id>126087</id>
+        <name>Landkreis Sächsische Schweiz/Osterzgebirge</name>
+    </association>
+    <matchOperationCompany>
+        <id></id>
+        <name></name>
+        <address>
+            <postbox></postbox>
+            <street></street>
+            <extraField></extraField>
+            <postcode></postcode>
+            <city></city>
+            <region></region>
+            <country></country>
+        </address>
+        <homepage></homepage>
+    </matchOperationCompany>
+    <teams>
+        <team>
+            <id>7060900</id>
+            <uuid>cd626d60-6a38-4391-ba45-1f26ce8c7a46</uuid>
+            <seasonTeamId>7060900</seasonTeamId>
+            <placeCipher>6</placeCipher>
+            <name>MH Metallprofil Volleys Dippoldiswalde</name>
+            <shortName>Dippoldiswalde</shortName>
+            <clubCode>TuS</clubCode>
+            <status>ACTIVE</status>
+            <www>http://www.tus-dippoldiswalde.de</www>
+            <logo>
+                <url>https://www.ssvb.org/uploads/4ed1a9fb-3195-40bf-ac23-3f0fa3cb64f9/logo_dipps.png</url>
+            </logo>
+            <club>
+                <name>TuS Dippoldiswalde 1992 e.V.</name>
+                <id>514</id>
+                <shortName></shortName>
+                <logo>
+                    <url></url>
+                </logo>
+                <www>http://www.tus-dippoldiswalde.de</www>
+                <wwwDepartment></wwwDepartment>
+            </club>
+            <matchSeries>
+                <id>7060877</id>
+                <uuid>2782121e-8829-4873-995d-5be050ca1110</uuid>
+                <allSeasonId>2f8a1a3d-2971-9da5-b319-853bb74e9234</allSeasonId>
+                <name>Sachsenliga Frauen</name>
+                <shortName>SL F</shortName>
+                <type>League</type>
+                <updated>2020-02-09 12:16:59.821</updated>
+                <structureUpdated>2020-02-09 00:15:13.28</structureUpdated>
+                <resultsUpdated>2020-02-09 12:16:59.821</resultsUpdated>
+                <season>
+                    <id>7058393</id>
+                    <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
+                    <name>2019/2020</name>
+                </season>
+                <hierarchy>
+                    <id>7059056</id>
+                    <uuid>bfd16489-5d2a-41fd-bd3f-815b8cd63541</uuid>
+                    <name>Sachsenliga</name>
+                    <shortName>SL</shortName>
+                    <hierarchyLevel>4</hierarchyLevel>
+                </hierarchy>
+                <fullHierarchy>
+                    <hierarchy>
+                        <id>7059056</id>
+                        <name>Sachsenliga</name>
+                        <shortName>SL</shortName>
+                        <hierarchyLevel>4</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059055</id>
+                        <name>Regionalliga Ost</name>
+                        <shortName>RLO</shortName>
+                        <hierarchyLevel>3</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059054</id>
+                        <name>Dritte Liga Ost</name>
+                        <shortName>DLO</shortName>
+                        <hierarchyLevel>2</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059053</id>
+                        <name>Bundesliga</name>
+                        <shortName>VBL</shortName>
+                        <hierarchyLevel>1</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059052</id>
+                        <name>Erwachsenenspielbetrieb</name>
+                        <shortName>Erw</shortName>
+                        <hierarchyLevel>0</hierarchyLevel>
+                    </hierarchy>
+                </fullHierarchy>
+                <association>
+                    <name>Sächsischer Sportverband Volleyball e.V.</name>
+                    <shortName>SSVB</shortName>
+                </association>
+            </matchSeries>
+        </team>
+        <team>
+            <id>7095548</id>
+            <uuid>3e97d54e-727c-4e18-af36-313e77d65aa1</uuid>
+            <seasonTeamId>7095548</seasonTeamId>
+            <placeCipher>6</placeCipher>
+            <name>MH Metallprofil Volleys Dippoldiswalde</name>
+            <shortName>Dippoldiswalde</shortName>
+            <clubCode>TuS</clubCode>
+            <status>ACTIVE</status>
+            <www>http://www.tus-dippoldiswalde.de</www>
+            <logo>
+                <url>https://www.ssvb.org/uploads/67507ec3-1133-45ad-bd55-9dc2f64216c9/logo_dipps.png</url>
+            </logo>
+            <club>
+                <name>TuS Dippoldiswalde 1992 e.V.</name>
+                <id>514</id>
+                <shortName></shortName>
+                <logo>
+                    <url></url>
+                </logo>
+                <www>http://www.tus-dippoldiswalde.de</www>
+                <wwwDepartment></wwwDepartment>
+            </club>
+            <matchSeries>
+                <id>7060866</id>
+                <uuid>3019e731-e39f-4b5f-b779-e0fb653d5e1d</uuid>
+                <allSeasonId>ad9e4ba0-d178-3e5a-09b6-e802e7859175</allSeasonId>
+                <name>Sparkassencup Frauen (Sachsenpokal)</name>
+                <shortName>SC F</shortName>
+                <type>Competition</type>
+                <updated>2020-02-07 16:51:22.546</updated>
+                <structureUpdated>2020-01-06 08:05:50.508</structureUpdated>
+                <resultsUpdated>2020-01-04 13:26:55.611</resultsUpdated>
+                <season>
+                    <id>7058393</id>
+                    <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
+                    <name>2019/2020</name>
+                </season>
+                <hierarchy>
+                    <id>7059056</id>
+                    <uuid>bfd16489-5d2a-41fd-bd3f-815b8cd63541</uuid>
+                    <name>Sachsenliga</name>
+                    <shortName>SL</shortName>
+                    <hierarchyLevel>4</hierarchyLevel>
+                </hierarchy>
+                <fullHierarchy>
+                    <hierarchy>
+                        <id>7059056</id>
+                        <name>Sachsenliga</name>
+                        <shortName>SL</shortName>
+                        <hierarchyLevel>4</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059055</id>
+                        <name>Regionalliga Ost</name>
+                        <shortName>RLO</shortName>
+                        <hierarchyLevel>3</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059054</id>
+                        <name>Dritte Liga Ost</name>
+                        <shortName>DLO</shortName>
+                        <hierarchyLevel>2</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059053</id>
+                        <name>Bundesliga</name>
+                        <shortName>VBL</shortName>
+                        <hierarchyLevel>1</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059052</id>
+                        <name>Erwachsenenspielbetrieb</name>
+                        <shortName>Erw</shortName>
+                        <hierarchyLevel>0</hierarchyLevel>
+                    </hierarchy>
+                </fullHierarchy>
+                <association>
+                    <name>Sächsischer Sportverband Volleyball e.V.</name>
+                    <shortName>SSVB</shortName>
+                </association>
+            </matchSeries>
+        </team>
+        <team>
+            <id>7059094</id>
+            <uuid>fab4e80b-c8c1-4b56-855f-20979ea2a926</uuid>
+            <seasonTeamId>7059094</seasonTeamId>
+            <placeCipher>7</placeCipher>
+            <name>TuS 1992 Dippoldiswalde II</name>
+            <shortName>TuS Dipps II</shortName>
+            <clubCode></clubCode>
+            <status>ACTIVE</status>
+            <www>http://www.tus-dippoldiswalde.de</www>
+            <logo>
+                <url></url>
+            </logo>
+            <club>
+                <name>TuS Dippoldiswalde 1992 e.V.</name>
+                <id>514</id>
+                <shortName></shortName>
+                <logo>
+                    <url></url>
+                </logo>
+                <www>http://www.tus-dippoldiswalde.de</www>
+                <wwwDepartment></wwwDepartment>
+            </club>
+            <matchSeries>
+                <id>7059063</id>
+                <uuid>d3dca919-78df-495b-a0f9-ff72be09dad6</uuid>
+                <allSeasonId>e43b06cb-110e-332d-de87-841e91735d6a</allSeasonId>
+                <name>KK sächs. Schweiz/Osterz. Frauen</name>
+                <shortName>KK Frauen</shortName>
+                <type>League</type>
+                <updated>2020-01-27 14:07:29.252</updated>
+                <structureUpdated>2020-01-24 16:00:02.385</structureUpdated>
+                <resultsUpdated>2020-01-27 14:07:29.252</resultsUpdated>
+                <season>
+                    <id>7058393</id>
+                    <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
+                    <name>2019/2020</name>
+                </season>
                 <hierarchy>
                     <id>7059062</id>
+                    <uuid>2023660c-f7f3-4a20-96f2-c51f157ce99a</uuid>
                     <name>Kreisklasse Sächsische Schweiz/Osterzgebirge</name>
                     <shortName>KK Sächs/Osterz</shortName>
                     <hierarchyLevel>10</hierarchyLevel>
                 </hierarchy>
+                <fullHierarchy>
+                    <hierarchy>
+                        <id>7059062</id>
+                        <name>Kreisklasse Sächsische Schweiz/Osterzgebirge</name>
+                        <shortName>KK Sächs/Osterz</shortName>
+                        <hierarchyLevel>10</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059061</id>
+                        <name>Kreis Sächsische Schweiz/Osterzgebirge</name>
+                        <shortName>K Sächs/Osterz</shortName>
+                        <hierarchyLevel>9</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059060</id>
+                        <name>Bezirksklasse Dresden</name>
+                        <shortName>BzK Dresden</shortName>
+                        <hierarchyLevel>8</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059059</id>
+                        <name>Bezirksliga Dresden</name>
+                        <shortName>BzL Dresden</shortName>
+                        <hierarchyLevel>7</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059058</id>
+                        <name>Bezirk Dresden</name>
+                        <shortName>BZ Dresden</shortName>
+                        <hierarchyLevel>6</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059057</id>
+                        <name>Sachsenklasse</name>
+                        <shortName>SK</shortName>
+                        <hierarchyLevel>5</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059056</id>
+                        <name>Sachsenliga</name>
+                        <shortName>SL</shortName>
+                        <hierarchyLevel>4</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059055</id>
+                        <name>Regionalliga Ost</name>
+                        <shortName>RLO</shortName>
+                        <hierarchyLevel>3</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059054</id>
+                        <name>Dritte Liga Ost</name>
+                        <shortName>DLO</shortName>
+                        <hierarchyLevel>2</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059053</id>
+                        <name>Bundesliga</name>
+                        <shortName>VBL</shortName>
+                        <hierarchyLevel>1</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7059052</id>
+                        <name>Erwachsenenspielbetrieb</name>
+                        <shortName>Erw</shortName>
+                        <hierarchyLevel>0</hierarchyLevel>
+                    </hierarchy>
+                </fullHierarchy>
+                <association>
+                    <name></name>
+                    <shortName></shortName>
+                </association>
+            </matchSeries>
+        </team>
+        <team>
+            <id>7675044</id>
+            <uuid>f9133f40-9729-4614-831a-b840e743494e</uuid>
+            <seasonTeamId>7675044</seasonTeamId>
+            <placeCipher>15</placeCipher>
+            <name>TuS Dippoldiswalde</name>
+            <shortName>TuS Dipps</shortName>
+            <clubCode></clubCode>
+            <status>ACTIVE</status>
+            <www>http://www.tus-dippoldiswalde.de</www>
+            <logo>
+                <url></url>
+            </logo>
+            <club>
+                <name>TuS Dippoldiswalde 1992 e.V.</name>
+                <id>514</id>
+                <shortName></shortName>
+                <logo>
+                    <url></url>
+                </logo>
+                <www>http://www.tus-dippoldiswalde.de</www>
+                <wwwDepartment></wwwDepartment>
+            </club>
+            <matchSeries>
+                <id>7062165</id>
+                <uuid>2c83e650-e460-4050-8651-075e2950a87a</uuid>
+                <allSeasonId>a7f5fcea-dc09-4d69-8fff-c15c0c891027</allSeasonId>
+                <name>Bezirksmeisterschaft U12 weiblich</name>
+                <shortName>BM U12 wbl</shortName>
+                <type>Competition</type>
+                <updated>2020-01-26 14:14:57.83</updated>
+                <structureUpdated>2020-01-13 14:13:49.087</structureUpdated>
+                <resultsUpdated>2020-01-26 14:14:57.83</resultsUpdated>
+                <season>
+                    <id>7058393</id>
+                    <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
+                    <name>2019/2020</name>
+                </season>
                 <hierarchy>
-                    <id>7059061</id>
-                    <name>Kreis Sächsische Schweiz/Osterzgebirge</name>
-                    <shortName>K Sächs/Osterz</shortName>
-                    <hierarchyLevel>9</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059060</id>
-                    <name>Bezirksklasse Dresden</name>
-                    <shortName>BzK Dresden</shortName>
-                    <hierarchyLevel>8</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059059</id>
-                    <name>Bezirksliga Dresden</name>
-                    <shortName>BzL Dresden</shortName>
-                    <hierarchyLevel>7</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059058</id>
+                    <id>7062117</id>
+                    <uuid>71c232e8-2d01-4509-8d54-e360a41298e2</uuid>
                     <name>Bezirk Dresden</name>
-                    <shortName>BZ Dresden</shortName>
-                    <hierarchyLevel>6</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059057</id>
-                    <name>Sachsenklasse</name>
-                    <shortName>SK</shortName>
-                    <hierarchyLevel>5</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059056</id>
-                    <name>Sachsenliga</name>
-                    <shortName>SL</shortName>
-                    <hierarchyLevel>4</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059055</id>
-                    <name>Regionalliga Ost</name>
-                    <shortName>RLO</shortName>
+                    <shortName>Dresden</shortName>
                     <hierarchyLevel>3</hierarchyLevel>
                 </hierarchy>
-                <hierarchy>
-                    <id>7059054</id>
-                    <name>Dritte Liga Ost</name>
-                    <shortName>DLO</shortName>
-                    <hierarchyLevel>2</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059053</id>
-                    <name>Bundesliga</name>
-                    <shortName>VBL</shortName>
-                    <hierarchyLevel>1</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7059052</id>
-                    <name>Erwachsenenspielbetrieb</name>
-                    <shortName>Erw</shortName>
-                    <hierarchyLevel>0</hierarchyLevel>
-                </hierarchy>
-        </fullHierarchy>
-        <association>
-            <name></name>
+                <fullHierarchy>
+                    <hierarchy>
+                        <id>7062117</id>
+                        <name>Bezirk Dresden</name>
+                        <shortName>Dresden</shortName>
+                        <hierarchyLevel>3</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061642</id>
+                        <name>Bezirksmeisterschaften</name>
+                        <shortName>Bezirke</shortName>
+                        <hierarchyLevel>2</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061641</id>
+                        <name>Sachsenmeisterschaften</name>
+                        <shortName>SM</shortName>
+                        <hierarchyLevel>1</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061254</id>
+                        <name>Jugendspielbetrieb</name>
+                        <shortName>Jugend</shortName>
+                        <hierarchyLevel>0</hierarchyLevel>
+                    </hierarchy>
+                </fullHierarchy>
+                <association>
+                    <name>Bezirk Dresden</name>
+                    <shortName>Bezirk DD</shortName>
+                </association>
+            </matchSeries>
+        </team>
+        <team>
+            <id>7679324</id>
+            <uuid>8e72f48f-c56d-44a5-b3c5-2274b82f4ff4</uuid>
+            <seasonTeamId>7679324</seasonTeamId>
+            <placeCipher>13</placeCipher>
+            <name>TuS Dippoldiswalde</name>
             <shortName></shortName>
-        </association>
-    </matchSeries>
-                        </team>
-                        <team>
-    <id>7675044</id>
-    <uuid>f9133f40-9729-4614-831a-b840e743494e</uuid>
-    <seasonTeamId>7675044</seasonTeamId>
-    <placeCipher>15</placeCipher>
-    <name>TuS Dippoldiswalde</name>
-    <shortName>TuS Dipps</shortName>
-    <clubCode></clubCode>
-    <status>ACTIVE</status>
-    <www>http://www.tus-dippoldiswalde.de</www>
-    <logo>
-        <url></url>
-    </logo>
-    <club>
-        <name>TuS Dippoldiswalde 1992 e.V.</name>
-        <id>514</id>
-        <shortName></shortName>
-        <logo>
-            <url></url>
-        </logo>
-        <www>http://www.tus-dippoldiswalde.de</www>
-        <wwwDepartment></wwwDepartment>
-    </club>
-    <matchSeries>
-    <id>7062165</id>
-    <uuid>2c83e650-e460-4050-8651-075e2950a87a</uuid>
-    <allSeasonId>a7f5fcea-dc09-4d69-8fff-c15c0c891027</allSeasonId>
-    <name>Bezirksmeisterschaft U12 weiblich</name>
-    <shortName>BM U12 wbl</shortName>
-    <type>Competition</type>
-        <updated>2020-01-26 14:14:57.83</updated>
-        <structureUpdated>2020-01-13 14:13:49.087</structureUpdated>
-        <resultsUpdated>2020-01-26 14:14:57.83</resultsUpdated>
-        <season>
-            <id>7058393</id>
-            <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
-            <name>2019/2020</name>
-        </season>
-        <hierarchy>
-            <id>7062117</id>
-            <uuid>71c232e8-2d01-4509-8d54-e360a41298e2</uuid>
-            <name>Bezirk Dresden</name>
-            <shortName>Dresden</shortName>
-            <hierarchyLevel>3</hierarchyLevel>
-        </hierarchy>
-        <fullHierarchy>
+            <clubCode></clubCode>
+            <status>ACTIVE</status>
+            <www>http://www.tus-dippoldiswalde.de</www>
+            <logo>
+                <url></url>
+            </logo>
+            <club>
+                <name>TuS Dippoldiswalde 1992 e.V.</name>
+                <id>514</id>
+                <shortName></shortName>
+                <logo>
+                    <url></url>
+                </logo>
+                <www>http://www.tus-dippoldiswalde.de</www>
+                <wwwDepartment></wwwDepartment>
+            </club>
+            <matchSeries>
+                <id>7062150</id>
+                <uuid>9778a5f5-b50a-4235-9a78-cb9ea3324adb</uuid>
+                <allSeasonId>892a502e-1576-451d-a67b-e12200af8b31</allSeasonId>
+                <name>Bezirksmeisterschaft U13 weiblich</name>
+                <shortName>BM U13 wbl</shortName>
+                <type>Competition</type>
+                <updated>2020-01-17 22:32:49.225</updated>
+                <structureUpdated>2020-01-17 22:32:49.225</structureUpdated>
+                <resultsUpdated>2020-01-12 14:37:52.96</resultsUpdated>
+                <season>
+                    <id>7058393</id>
+                    <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
+                    <name>2019/2020</name>
+                </season>
                 <hierarchy>
                     <id>7062117</id>
+                    <uuid>71c232e8-2d01-4509-8d54-e360a41298e2</uuid>
                     <name>Bezirk Dresden</name>
                     <shortName>Dresden</shortName>
                     <hierarchyLevel>3</hierarchyLevel>
                 </hierarchy>
-                <hierarchy>
-                    <id>7061642</id>
-                    <name>Bezirksmeisterschaften</name>
-                    <shortName>Bezirke</shortName>
-                    <hierarchyLevel>2</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7061641</id>
-                    <name>Sachsenmeisterschaften</name>
-                    <shortName>SM</shortName>
-                    <hierarchyLevel>1</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7061254</id>
-                    <name>Jugendspielbetrieb</name>
-                    <shortName>Jugend</shortName>
-                    <hierarchyLevel>0</hierarchyLevel>
-                </hierarchy>
-        </fullHierarchy>
-        <association>
-            <name>Bezirk Dresden</name>
-            <shortName>Bezirk DD</shortName>
-        </association>
-    </matchSeries>
-                        </team>
-                        <team>
-    <id>7679324</id>
-    <uuid>8e72f48f-c56d-44a5-b3c5-2274b82f4ff4</uuid>
-    <seasonTeamId>7679324</seasonTeamId>
-    <placeCipher>13</placeCipher>
-    <name>TuS Dippoldiswalde</name>
-    <shortName></shortName>
-    <clubCode></clubCode>
-    <status>ACTIVE</status>
-    <www>http://www.tus-dippoldiswalde.de</www>
-    <logo>
-        <url></url>
-    </logo>
-    <club>
-        <name>TuS Dippoldiswalde 1992 e.V.</name>
-        <id>514</id>
-        <shortName></shortName>
-        <logo>
-            <url></url>
-        </logo>
-        <www>http://www.tus-dippoldiswalde.de</www>
-        <wwwDepartment></wwwDepartment>
-    </club>
-    <matchSeries>
-    <id>7062150</id>
-    <uuid>9778a5f5-b50a-4235-9a78-cb9ea3324adb</uuid>
-    <allSeasonId>892a502e-1576-451d-a67b-e12200af8b31</allSeasonId>
-    <name>Bezirksmeisterschaft U13 weiblich</name>
-    <shortName>BM U13 wbl</shortName>
-    <type>Competition</type>
-        <updated>2020-01-17 22:32:49.225</updated>
-        <structureUpdated>2020-01-17 22:32:49.225</structureUpdated>
-        <resultsUpdated>2020-01-12 14:37:52.96</resultsUpdated>
-        <season>
-            <id>7058393</id>
-            <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
-            <name>2019/2020</name>
-        </season>
-        <hierarchy>
-            <id>7062117</id>
-            <uuid>71c232e8-2d01-4509-8d54-e360a41298e2</uuid>
-            <name>Bezirk Dresden</name>
-            <shortName>Dresden</shortName>
-            <hierarchyLevel>3</hierarchyLevel>
-        </hierarchy>
-        <fullHierarchy>
+                <fullHierarchy>
+                    <hierarchy>
+                        <id>7062117</id>
+                        <name>Bezirk Dresden</name>
+                        <shortName>Dresden</shortName>
+                        <hierarchyLevel>3</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061642</id>
+                        <name>Bezirksmeisterschaften</name>
+                        <shortName>Bezirke</shortName>
+                        <hierarchyLevel>2</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061641</id>
+                        <name>Sachsenmeisterschaften</name>
+                        <shortName>SM</shortName>
+                        <hierarchyLevel>1</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061254</id>
+                        <name>Jugendspielbetrieb</name>
+                        <shortName>Jugend</shortName>
+                        <hierarchyLevel>0</hierarchyLevel>
+                    </hierarchy>
+                </fullHierarchy>
+                <association>
+                    <name>Bezirk Dresden</name>
+                    <shortName>Bezirk DD</shortName>
+                </association>
+            </matchSeries>
+        </team>
+        <team>
+            <id>7315753</id>
+            <uuid>f1c494e6-0f9e-4a6b-b176-2dd8088df422</uuid>
+            <seasonTeamId>7315753</seasonTeamId>
+            <placeCipher>9</placeCipher>
+            <name>TuS Dippoldiswalde</name>
+            <shortName></shortName>
+            <clubCode></clubCode>
+            <status>ACTIVE</status>
+            <www>http://www.tus-dippoldiswalde.de</www>
+            <logo>
+                <url></url>
+            </logo>
+            <club>
+                <name>TuS Dippoldiswalde 1992 e.V.</name>
+                <id>514</id>
+                <shortName></shortName>
+                <logo>
+                    <url></url>
+                </logo>
+                <www>http://www.tus-dippoldiswalde.de</www>
+                <wwwDepartment></wwwDepartment>
+            </club>
+            <matchSeries>
+                <id>7062145</id>
+                <uuid>e5f8c79b-90bc-4593-94b1-c92071776ef4</uuid>
+                <allSeasonId>e05f3cc9-8f1d-49d8-b2bd-d0b6e33aeebf</allSeasonId>
+                <name>Bezirksmeisterschaft U14 weiblich</name>
+                <shortName>BM U14 wbl</shortName>
+                <type>Competition</type>
+                <updated>2020-02-04 16:05:44.5</updated>
+                <structureUpdated>2020-01-20 12:08:02.058</structureUpdated>
+                <resultsUpdated>2019-12-08 14:42:58.922</resultsUpdated>
+                <season>
+                    <id>7058393</id>
+                    <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
+                    <name>2019/2020</name>
+                </season>
                 <hierarchy>
                     <id>7062117</id>
+                    <uuid>71c232e8-2d01-4509-8d54-e360a41298e2</uuid>
                     <name>Bezirk Dresden</name>
                     <shortName>Dresden</shortName>
                     <hierarchyLevel>3</hierarchyLevel>
                 </hierarchy>
-                <hierarchy>
-                    <id>7061642</id>
-                    <name>Bezirksmeisterschaften</name>
-                    <shortName>Bezirke</shortName>
-                    <hierarchyLevel>2</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7061641</id>
-                    <name>Sachsenmeisterschaften</name>
-                    <shortName>SM</shortName>
-                    <hierarchyLevel>1</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7061254</id>
-                    <name>Jugendspielbetrieb</name>
-                    <shortName>Jugend</shortName>
-                    <hierarchyLevel>0</hierarchyLevel>
-                </hierarchy>
-        </fullHierarchy>
-        <association>
-            <name>Bezirk Dresden</name>
-            <shortName>Bezirk DD</shortName>
-        </association>
-    </matchSeries>
-                        </team>
-                        <team>
-    <id>7315753</id>
-    <uuid>f1c494e6-0f9e-4a6b-b176-2dd8088df422</uuid>
-    <seasonTeamId>7315753</seasonTeamId>
-    <placeCipher>9</placeCipher>
-    <name>TuS Dippoldiswalde</name>
-    <shortName></shortName>
-    <clubCode></clubCode>
-    <status>ACTIVE</status>
-    <www>http://www.tus-dippoldiswalde.de</www>
-    <logo>
-        <url></url>
-    </logo>
-    <club>
-        <name>TuS Dippoldiswalde 1992 e.V.</name>
-        <id>514</id>
-        <shortName></shortName>
-        <logo>
-            <url></url>
-        </logo>
-        <www>http://www.tus-dippoldiswalde.de</www>
-        <wwwDepartment></wwwDepartment>
-    </club>
-    <matchSeries>
-    <id>7062145</id>
-    <uuid>e5f8c79b-90bc-4593-94b1-c92071776ef4</uuid>
-    <allSeasonId>e05f3cc9-8f1d-49d8-b2bd-d0b6e33aeebf</allSeasonId>
-    <name>Bezirksmeisterschaft U14 weiblich</name>
-    <shortName>BM U14 wbl</shortName>
-    <type>Competition</type>
-        <updated>2020-02-04 16:05:44.5</updated>
-        <structureUpdated>2020-01-20 12:08:02.058</structureUpdated>
-        <resultsUpdated>2019-12-08 14:42:58.922</resultsUpdated>
-        <season>
-            <id>7058393</id>
-            <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
-            <name>2019/2020</name>
-        </season>
-        <hierarchy>
-            <id>7062117</id>
-            <uuid>71c232e8-2d01-4509-8d54-e360a41298e2</uuid>
-            <name>Bezirk Dresden</name>
-            <shortName>Dresden</shortName>
-            <hierarchyLevel>3</hierarchyLevel>
-        </hierarchy>
-        <fullHierarchy>
+                <fullHierarchy>
+                    <hierarchy>
+                        <id>7062117</id>
+                        <name>Bezirk Dresden</name>
+                        <shortName>Dresden</shortName>
+                        <hierarchyLevel>3</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061642</id>
+                        <name>Bezirksmeisterschaften</name>
+                        <shortName>Bezirke</shortName>
+                        <hierarchyLevel>2</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061641</id>
+                        <name>Sachsenmeisterschaften</name>
+                        <shortName>SM</shortName>
+                        <hierarchyLevel>1</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061254</id>
+                        <name>Jugendspielbetrieb</name>
+                        <shortName>Jugend</shortName>
+                        <hierarchyLevel>0</hierarchyLevel>
+                    </hierarchy>
+                </fullHierarchy>
+                <association>
+                    <name>Bezirk Dresden</name>
+                    <shortName>Bezirk DD</shortName>
+                </association>
+            </matchSeries>
+        </team>
+        <team>
+            <id>7315744</id>
+            <uuid>fe62e49b-8233-4c89-8ada-acdeac231177</uuid>
+            <seasonTeamId>7315744</seasonTeamId>
+            <placeCipher>7</placeCipher>
+            <name>TuS Dippoldiswalde</name>
+            <shortName></shortName>
+            <clubCode></clubCode>
+            <status>ACTIVE</status>
+            <www>http://www.tus-dippoldiswalde.de</www>
+            <logo>
+                <url></url>
+            </logo>
+            <club>
+                <name>TuS Dippoldiswalde 1992 e.V.</name>
+                <id>514</id>
+                <shortName></shortName>
+                <logo>
+                    <url></url>
+                </logo>
+                <www>http://www.tus-dippoldiswalde.de</www>
+                <wwwDepartment></wwwDepartment>
+            </club>
+            <matchSeries>
+                <id>7062160</id>
+                <uuid>dcaf732f-322a-4b53-934a-a87ee56522f2</uuid>
+                <allSeasonId>67509d49-f8dc-4990-9fdc-64aacaf73292</allSeasonId>
+                <name>Bezirksmeisterschaft U16 weiblich</name>
+                <shortName>BM U16 wbl</shortName>
+                <type>Competition</type>
+                <updated>2020-01-25 14:44:43.63</updated>
+                <structureUpdated>2020-01-20 11:09:27.045</structureUpdated>
+                <resultsUpdated>2019-12-15 14:38:48.498</resultsUpdated>
+                <season>
+                    <id>7058393</id>
+                    <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
+                    <name>2019/2020</name>
+                </season>
                 <hierarchy>
                     <id>7062117</id>
+                    <uuid>71c232e8-2d01-4509-8d54-e360a41298e2</uuid>
                     <name>Bezirk Dresden</name>
                     <shortName>Dresden</shortName>
                     <hierarchyLevel>3</hierarchyLevel>
                 </hierarchy>
-                <hierarchy>
-                    <id>7061642</id>
-                    <name>Bezirksmeisterschaften</name>
-                    <shortName>Bezirke</shortName>
-                    <hierarchyLevel>2</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7061641</id>
-                    <name>Sachsenmeisterschaften</name>
-                    <shortName>SM</shortName>
-                    <hierarchyLevel>1</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7061254</id>
-                    <name>Jugendspielbetrieb</name>
-                    <shortName>Jugend</shortName>
-                    <hierarchyLevel>0</hierarchyLevel>
-                </hierarchy>
-        </fullHierarchy>
-        <association>
-            <name>Bezirk Dresden</name>
-            <shortName>Bezirk DD</shortName>
-        </association>
-    </matchSeries>
-                        </team>
-                        <team>
-    <id>7315744</id>
-    <uuid>fe62e49b-8233-4c89-8ada-acdeac231177</uuid>
-    <seasonTeamId>7315744</seasonTeamId>
-    <placeCipher>7</placeCipher>
-    <name>TuS Dippoldiswalde</name>
-    <shortName></shortName>
-    <clubCode></clubCode>
-    <status>ACTIVE</status>
-    <www>http://www.tus-dippoldiswalde.de</www>
-    <logo>
-        <url></url>
-    </logo>
-    <club>
-        <name>TuS Dippoldiswalde 1992 e.V.</name>
-        <id>514</id>
-        <shortName></shortName>
-        <logo>
-            <url></url>
-        </logo>
-        <www>http://www.tus-dippoldiswalde.de</www>
-        <wwwDepartment></wwwDepartment>
-    </club>
-    <matchSeries>
-    <id>7062160</id>
-    <uuid>dcaf732f-322a-4b53-934a-a87ee56522f2</uuid>
-    <allSeasonId>67509d49-f8dc-4990-9fdc-64aacaf73292</allSeasonId>
-    <name>Bezirksmeisterschaft U16 weiblich</name>
-    <shortName>BM U16 wbl</shortName>
-    <type>Competition</type>
-        <updated>2020-01-25 14:44:43.63</updated>
-        <structureUpdated>2020-01-20 11:09:27.045</structureUpdated>
-        <resultsUpdated>2019-12-15 14:38:48.498</resultsUpdated>
-        <season>
-            <id>7058393</id>
-            <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
-            <name>2019/2020</name>
-        </season>
-        <hierarchy>
-            <id>7062117</id>
-            <uuid>71c232e8-2d01-4509-8d54-e360a41298e2</uuid>
-            <name>Bezirk Dresden</name>
-            <shortName>Dresden</shortName>
-            <hierarchyLevel>3</hierarchyLevel>
-        </hierarchy>
-        <fullHierarchy>
+                <fullHierarchy>
+                    <hierarchy>
+                        <id>7062117</id>
+                        <name>Bezirk Dresden</name>
+                        <shortName>Dresden</shortName>
+                        <hierarchyLevel>3</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061642</id>
+                        <name>Bezirksmeisterschaften</name>
+                        <shortName>Bezirke</shortName>
+                        <hierarchyLevel>2</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061641</id>
+                        <name>Sachsenmeisterschaften</name>
+                        <shortName>SM</shortName>
+                        <hierarchyLevel>1</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061254</id>
+                        <name>Jugendspielbetrieb</name>
+                        <shortName>Jugend</shortName>
+                        <hierarchyLevel>0</hierarchyLevel>
+                    </hierarchy>
+                </fullHierarchy>
+                <association>
+                    <name>Bezirk Dresden</name>
+                    <shortName>Bezirk DD</shortName>
+                </association>
+            </matchSeries>
+        </team>
+        <team>
+            <id>7315722</id>
+            <uuid>fda19d25-5d2f-431e-879d-c1c5a75a29a8</uuid>
+            <seasonTeamId>7315722</seasonTeamId>
+            <placeCipher>7</placeCipher>
+            <name>TuS Dippoldiswalde</name>
+            <shortName></shortName>
+            <clubCode></clubCode>
+            <status>ACTIVE</status>
+            <www>http://www.tus-dippoldiswalde.de</www>
+            <logo>
+                <url></url>
+            </logo>
+            <club>
+                <name>TuS Dippoldiswalde 1992 e.V.</name>
+                <id>514</id>
+                <shortName></shortName>
+                <logo>
+                    <url></url>
+                </logo>
+                <www>http://www.tus-dippoldiswalde.de</www>
+                <wwwDepartment></wwwDepartment>
+            </club>
+            <matchSeries>
+                <id>7062133</id>
+                <uuid>edbfa170-debf-43e9-81a7-0af8c0d70b04</uuid>
+                <allSeasonId>a5b6321f-f8d6-48eb-9ddf-d6fc7a1978e7</allSeasonId>
+                <name>Bezirksmeisterschaft U18 weiblich</name>
+                <shortName>BM U18 wbl</shortName>
+                <type>Competition</type>
+                <updated>2020-02-07 12:59:04.761</updated>
+                <structureUpdated>2020-01-20 10:01:22.861</structureUpdated>
+                <resultsUpdated>2019-12-01 14:35:59.005</resultsUpdated>
+                <season>
+                    <id>7058393</id>
+                    <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
+                    <name>2019/2020</name>
+                </season>
                 <hierarchy>
                     <id>7062117</id>
+                    <uuid>71c232e8-2d01-4509-8d54-e360a41298e2</uuid>
                     <name>Bezirk Dresden</name>
                     <shortName>Dresden</shortName>
                     <hierarchyLevel>3</hierarchyLevel>
                 </hierarchy>
-                <hierarchy>
-                    <id>7061642</id>
-                    <name>Bezirksmeisterschaften</name>
-                    <shortName>Bezirke</shortName>
-                    <hierarchyLevel>2</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7061641</id>
-                    <name>Sachsenmeisterschaften</name>
-                    <shortName>SM</shortName>
-                    <hierarchyLevel>1</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7061254</id>
-                    <name>Jugendspielbetrieb</name>
-                    <shortName>Jugend</shortName>
-                    <hierarchyLevel>0</hierarchyLevel>
-                </hierarchy>
-        </fullHierarchy>
-        <association>
-            <name>Bezirk Dresden</name>
-            <shortName>Bezirk DD</shortName>
-        </association>
-    </matchSeries>
-                        </team>
-                        <team>
-    <id>7315722</id>
-    <uuid>fda19d25-5d2f-431e-879d-c1c5a75a29a8</uuid>
-    <seasonTeamId>7315722</seasonTeamId>
-    <placeCipher>7</placeCipher>
-    <name>TuS Dippoldiswalde</name>
-    <shortName></shortName>
-    <clubCode></clubCode>
-    <status>ACTIVE</status>
-    <www>http://www.tus-dippoldiswalde.de</www>
-    <logo>
-        <url></url>
-    </logo>
-    <club>
-        <name>TuS Dippoldiswalde 1992 e.V.</name>
-        <id>514</id>
-        <shortName></shortName>
-        <logo>
-            <url></url>
-        </logo>
-        <www>http://www.tus-dippoldiswalde.de</www>
-        <wwwDepartment></wwwDepartment>
-    </club>
-    <matchSeries>
-    <id>7062133</id>
-    <uuid>edbfa170-debf-43e9-81a7-0af8c0d70b04</uuid>
-    <allSeasonId>a5b6321f-f8d6-48eb-9ddf-d6fc7a1978e7</allSeasonId>
-    <name>Bezirksmeisterschaft U18 weiblich</name>
-    <shortName>BM U18 wbl</shortName>
-    <type>Competition</type>
-        <updated>2020-02-07 12:59:04.761</updated>
-        <structureUpdated>2020-01-20 10:01:22.861</structureUpdated>
-        <resultsUpdated>2019-12-01 14:35:59.005</resultsUpdated>
-        <season>
-            <id>7058393</id>
-            <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
-            <name>2019/2020</name>
-        </season>
-        <hierarchy>
-            <id>7062117</id>
-            <uuid>71c232e8-2d01-4509-8d54-e360a41298e2</uuid>
-            <name>Bezirk Dresden</name>
-            <shortName>Dresden</shortName>
-            <hierarchyLevel>3</hierarchyLevel>
-        </hierarchy>
-        <fullHierarchy>
-                <hierarchy>
-                    <id>7062117</id>
+                <fullHierarchy>
+                    <hierarchy>
+                        <id>7062117</id>
+                        <name>Bezirk Dresden</name>
+                        <shortName>Dresden</shortName>
+                        <hierarchyLevel>3</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061642</id>
+                        <name>Bezirksmeisterschaften</name>
+                        <shortName>Bezirke</shortName>
+                        <hierarchyLevel>2</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061641</id>
+                        <name>Sachsenmeisterschaften</name>
+                        <shortName>SM</shortName>
+                        <hierarchyLevel>1</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061254</id>
+                        <name>Jugendspielbetrieb</name>
+                        <shortName>Jugend</shortName>
+                        <hierarchyLevel>0</hierarchyLevel>
+                    </hierarchy>
+                </fullHierarchy>
+                <association>
                     <name>Bezirk Dresden</name>
-                    <shortName>Dresden</shortName>
-                    <hierarchyLevel>3</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7061642</id>
-                    <name>Bezirksmeisterschaften</name>
-                    <shortName>Bezirke</shortName>
-                    <hierarchyLevel>2</hierarchyLevel>
-                </hierarchy>
+                    <shortName>Bezirk DD</shortName>
+                </association>
+            </matchSeries>
+        </team>
+        <team>
+            <id>7948459</id>
+            <uuid>8740bc6e-ec02-4d84-bdf4-d284ee8e1959</uuid>
+            <seasonTeamId>7948459</seasonTeamId>
+            <placeCipher>6</placeCipher>
+            <name>TuS Dippoldiswalde</name>
+            <shortName></shortName>
+            <clubCode></clubCode>
+            <status>ACTIVE</status>
+            <www>http://www.tus-dippoldiswalde.de</www>
+            <logo>
+                <url></url>
+            </logo>
+            <club>
+                <name>TuS Dippoldiswalde 1992 e.V.</name>
+                <id>514</id>
+                <shortName></shortName>
+                <logo>
+                    <url></url>
+                </logo>
+                <www>http://www.tus-dippoldiswalde.de</www>
+                <wwwDepartment></wwwDepartment>
+            </club>
+            <matchSeries>
+                <id>7062370</id>
+                <uuid>bd44f630-ba9c-49bc-abc3-282febf38783</uuid>
+                <allSeasonId>77858733-5e17-4641-bc46-b284116e4dfd</allSeasonId>
+                <name>Sachsenmeisterschaft U18 weiblich</name>
+                <shortName>SM U18 wbl</shortName>
+                <type>Competition</type>
+                <updated>2020-01-21 11:50:24.208</updated>
+                <structureUpdated>2020-01-21 11:50:24.208</structureUpdated>
+                <resultsUpdated>2019-02-03 21:28:16.027</resultsUpdated>
+                <season>
+                    <id>7058393</id>
+                    <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
+                    <name>2019/2020</name>
+                </season>
                 <hierarchy>
                     <id>7061641</id>
+                    <uuid>e6e00c27-b8f5-421f-8ef4-80beef75e67b</uuid>
                     <name>Sachsenmeisterschaften</name>
                     <shortName>SM</shortName>
                     <hierarchyLevel>1</hierarchyLevel>
                 </hierarchy>
-                <hierarchy>
-                    <id>7061254</id>
-                    <name>Jugendspielbetrieb</name>
-                    <shortName>Jugend</shortName>
-                    <hierarchyLevel>0</hierarchyLevel>
-                </hierarchy>
-        </fullHierarchy>
-        <association>
-            <name>Bezirk Dresden</name>
-            <shortName>Bezirk DD</shortName>
-        </association>
-    </matchSeries>
-                        </team>
-                        <team>
-    <id>7948459</id>
-    <uuid>8740bc6e-ec02-4d84-bdf4-d284ee8e1959</uuid>
-    <seasonTeamId>7948459</seasonTeamId>
-    <placeCipher>6</placeCipher>
-    <name>TuS Dippoldiswalde</name>
-    <shortName></shortName>
-    <clubCode></clubCode>
-    <status>ACTIVE</status>
-    <www>http://www.tus-dippoldiswalde.de</www>
-    <logo>
-        <url></url>
-    </logo>
-    <club>
-        <name>TuS Dippoldiswalde 1992 e.V.</name>
-        <id>514</id>
-        <shortName></shortName>
-        <logo>
-            <url></url>
-        </logo>
-        <www>http://www.tus-dippoldiswalde.de</www>
-        <wwwDepartment></wwwDepartment>
-    </club>
-    <matchSeries>
-    <id>7062370</id>
-    <uuid>bd44f630-ba9c-49bc-abc3-282febf38783</uuid>
-    <allSeasonId>77858733-5e17-4641-bc46-b284116e4dfd</allSeasonId>
-    <name>Sachsenmeisterschaft U18 weiblich</name>
-    <shortName>SM U18 wbl</shortName>
-    <type>Competition</type>
-        <updated>2020-01-21 11:50:24.208</updated>
-        <structureUpdated>2020-01-21 11:50:24.208</structureUpdated>
-        <resultsUpdated>2019-02-03 21:28:16.027</resultsUpdated>
-        <season>
-            <id>7058393</id>
-            <uuid>67b5bc2d-0367-4314-b665-473350f2ca41</uuid>
-            <name>2019/2020</name>
-        </season>
-        <hierarchy>
-            <id>7061641</id>
-            <uuid>e6e00c27-b8f5-421f-8ef4-80beef75e67b</uuid>
-            <name>Sachsenmeisterschaften</name>
-            <shortName>SM</shortName>
-            <hierarchyLevel>1</hierarchyLevel>
-        </hierarchy>
-        <fullHierarchy>
-                <hierarchy>
-                    <id>7061641</id>
-                    <name>Sachsenmeisterschaften</name>
-                    <shortName>SM</shortName>
-                    <hierarchyLevel>1</hierarchyLevel>
-                </hierarchy>
-                <hierarchy>
-                    <id>7061254</id>
-                    <name>Jugendspielbetrieb</name>
-                    <shortName>Jugend</shortName>
-                    <hierarchyLevel>0</hierarchyLevel>
-                </hierarchy>
-        </fullHierarchy>
-        <association>
-            <name>Sächsischer Sportverband Volleyball e.V.</name>
-            <shortName>SSVB</shortName>
-        </association>
-    </matchSeries>
-                        </team>
-                </teams>
-                <locations>
-                    <main>
-                        <id>92655</id>
-                        <name>Sportpark Dippoldiswalde</name>
-                        <address>
-        <postbox></postbox>
-    <street>Nikolai-Ostrowski-Str. 2</street>
-    <extraField></extraField>
-    <postcode>01744</postcode>
-    <city>Dippoldiswalde</city>
-    <region>Sachsen</region>
-    <country>Deutschland</country>
-                        </address>
-                        <homepage></homepage>
-                    </main>
-                        <additional>
-                            <name>Sportpark Dippoldiswalde</name>
-                            <address>
-        <postbox></postbox>
-    <street>Nikolai-Ostrowski-Str. 2</street>
-    <extraField></extraField>
-    <postcode>01744</postcode>
-    <city>Dippoldiswalde</city>
-    <region>Sachsen</region>
-    <country>Deutschland</country>
-                            </address>
-                            <homepage></homepage>
-                        </additional>                           
-                </locations>
-            </sportsclub>
+                <fullHierarchy>
+                    <hierarchy>
+                        <id>7061641</id>
+                        <name>Sachsenmeisterschaften</name>
+                        <shortName>SM</shortName>
+                        <hierarchyLevel>1</hierarchyLevel>
+                    </hierarchy>
+                    <hierarchy>
+                        <id>7061254</id>
+                        <name>Jugendspielbetrieb</name>
+                        <shortName>Jugend</shortName>
+                        <hierarchyLevel>0</hierarchyLevel>
+                    </hierarchy>
+                </fullHierarchy>
+                <association>
+                    <name>Sächsischer Sportverband Volleyball e.V.</name>
+                    <shortName>SSVB</shortName>
+                </association>
+            </matchSeries>
+        </team>
+    </teams>
+    <locations>
+        <main>
+            <id>92655</id>
+            <name>Sportpark Dippoldiswalde</name>
+            <address>
+                <postbox></postbox>
+                <street>Nikolai-Ostrowski-Str. 2</street>
+                <extraField></extraField>
+                <postcode>01744</postcode>
+                <city>Dippoldiswalde</city>
+                <region>Sachsen</region>
+                <country>Deutschland</country>
+            </address>
+            <homepage></homepage>
+        </main>
+        <additional>
+            <name>Sportpark Dippoldiswalde</name>
+            <address>
+                <postbox></postbox>
+                <street>Nikolai-Ostrowski-Str. 2</street>
+                <extraField></extraField>
+                <postcode>01744</postcode>
+                <city>Dippoldiswalde</city>
+                <region>Sachsen</region>
+                <country>Deutschland</country>
+            </address>
+            <homepage></homepage>
+        </additional>
+    </locations>
+</sportsclub>
