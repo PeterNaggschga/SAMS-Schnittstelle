@@ -1,6 +1,7 @@
 <?php
 $rankingFileName = 'rankings.xml';
 $apiKey = '05b4a417-dba5-4382-b40d-ac2b6d6cb516';
+$sportsClubId = '50621779';
 
 if (file_exists($rankingFileName)){
     $rankingsXml = simplexml_load_file($rankingFileName);
@@ -11,7 +12,7 @@ if (file_exists($rankingFileName)){
     $seriesId = '0';
 }
 
-if ($sportsClubXml = simplexml_load_file("https://ssvb.sams-server.de/xml/sportsclub.xhtml?apiKey=$apiKey&sportsclubId=514")) {   // wenn Club mit Id 514 gefunden wurde
+if ($sportsClubXml = simplexml_load_file("https://ssvb.sams-server.de/xml/sportsclub.xhtml?apiKey=$apiKey&sportsclubId=$sportsClubId")) {   // wenn Verein mit Id gefunden wurde
     foreach ($sportsClubXml->teams->team as $team) {
        if (strcmp($team->name, 'MH Metallprofil Volleys Dippoldiswalde') == 0   // finde MH Volleys
             and strcmp('League', $team->matchSeries->type) == 0                 // betrachte nur Liga-Tabellen
